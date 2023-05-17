@@ -8,6 +8,7 @@ User interaction is facilitated through a thoughtfully designed graphical user i
 A powerful platform for investigating and visualizing three-dimensional geometric shapes is provided by this simulator. This simulator satisfies the needs of both amateurs and professionals looking to interactively explore and alter complex structures in a virtual environment thanks to its  rendering techniques, dynamic animation capabilities, and user-friendly interface.
 
 -> You can clone this repository to run it under your unity editor ver:2021.3.14f1 and take a look. Here you can play with the math used in this simulator, possibly create new shapes, play with the number of cubes present at the scene creating a janky and delightful scenery. OR
+
 -> You can directly download the lastest windows build and try the simulator there. Here is the build link : 
 
 
