@@ -1,2 +1,2 @@
 # 3DGraph
- A 3d graph simulator
+ A 3D graph simulator
