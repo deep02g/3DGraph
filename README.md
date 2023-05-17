@@ -9,7 +9,7 @@ A powerful platform for investigating and visualizing three-dimensional geometri
 
 -> You can clone this repository to run it under your unity editor ver:2021.3.14f1 and take a look. Here you can play with the math used in this simulator, possibly create new shapes, play with the number of cubes present at the scene creating a janky and delightful scenery. OR
 
--> You can directly download the lastest windows build and try the simulator there. Here is the build link : 
+-> You can directly download the lastest windows build and try the simulator there. Here is the build link : https://github.com/deep02g/3DGraphBuild.exe
 
 
 
